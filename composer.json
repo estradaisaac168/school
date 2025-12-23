@@ -1,0 +1,17 @@
+{
+    "name": "isaac_estrada/school",
+    "description": "Projecto school",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Isaac Estrada"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
